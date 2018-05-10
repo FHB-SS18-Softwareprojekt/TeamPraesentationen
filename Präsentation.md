@@ -1,4 +1,4 @@
-##Code
+## Code
 
 1. Pakete Importieren
    - from gensim.summarization.summarizer import summarize
@@ -27,7 +27,7 @@
 	- print(keywords(str(text), ratio=0.01))
 
 
-##Beurteilung
+## Beurteilung
 - Nicht für jede Webseite gedacht( Wikipedia klappt   fast immer)
 - Textdatei: Text muss lang genug sein, sonst keine   oder sehr kurze Zusammenfassung
 - Das Programm ist viel zu langsam, wenn der Text    zu lang ist
